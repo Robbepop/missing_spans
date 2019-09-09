@@ -1,0 +1,5 @@
+error: attribute on module
+ --> $DIR/inline_mod.rs:6:5
+  |
+6 | mod foo {}
+  |     ^^^
